@@ -1,0 +1,7 @@
+echo "# OOPS-mini-project" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/yxshx6tence/OOPS-mini-project.git
+git push -u origin main
